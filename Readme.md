@@ -3,7 +3,7 @@
 
 # tak2flac-net8
 
-Este proyecto es un intento de portar la librería archivada [tak2flac](https://github.com/appleneko2001/tak2flac) a .NET 8. El objetivo principal es convertir archivos **TAK** a **FLAC**, utilizando **ffmpeg** como el componente subyacente que realiza la transformación.
+Este proyecto es un intento de portar la herramienta archivada [tak2flac](https://github.com/appleneko2001/tak2flac) a .NET 8. El objetivo principal es convertir archivos **TAK** a **FLAC**, utilizando **ffmpeg** como el componente subyacente que realiza la transformación.
 
 ## Descripción
 
