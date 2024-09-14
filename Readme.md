@@ -38,7 +38,7 @@ Este código podría servir como base para futuros intentos o actualizaciones, a
 Para convertir un archivo TAK a FLAC:
 
 ```bash
-tak2flac-net8 <input_file.tak> <output_file.flac>
+dotnet run tak2flac <input_file.tak> -cue <output_file.flac>
 ```
 
 Nota: Si se encuentra con errores relacionados con el nombre de archivos o si la conversión falla, verifique si el problema está relacionado con las limitaciones conocidas mencionadas anteriormente.
